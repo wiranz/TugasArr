@@ -58,7 +58,7 @@ Program memiliki beberapa fitur utama:
 
 ## Output Program
 
-![Output Program](assets/output_program.jpeg)
+![Output Program](output_program.jpeg)
 
 Gambar di atas menunjukkan proses input nilai mahasiswa serta hasil analisis program seperti nilai tertinggi, nilai terendah, rata-rata nilai, dan jumlah mahasiswa yang lulus maupun tidak lulus.
 
@@ -66,7 +66,7 @@ Gambar di atas menunjukkan proses input nilai mahasiswa serta hasil analisis pro
 
 ## Grafik Persentase Kelulusan Mahasiswa
 
-![Grafik Kelulusan](assets/grafik_kelulusan.png)
+![Grafik Kelulusan](grafik_kelulusan.png)
 
 Grafik ini menampilkan persentase mahasiswa yang **lulus** dan **tidak lulus** berdasarkan batas nilai kelulusan ≥ 60.
 
