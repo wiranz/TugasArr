@@ -74,7 +74,7 @@ Grafik ini menampilkan persentase mahasiswa yang **lulus** dan **tidak lulus** b
 
 ## Grafik Perbandingan Nilai Tertinggi dan Terendah
 
-![Grafik Nilai](assets/grafik_nilai.png)
+![Grafik Nilai](grafik_nilai.png)
 
 Grafik ini memperlihatkan perbandingan antara **nilai tertinggi** dan **nilai terendah** dari data mahasiswa.
 
