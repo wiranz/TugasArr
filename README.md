@@ -143,6 +143,6 @@ Program ini membantu memahami bagaimana data dapat diolah dan dianalisis menggun
 
 # Teknologi yang Digunakan
 
-* google colab
+* visual studio code
 * Python
 * Library matplotlib untuk visualisasi grafik
